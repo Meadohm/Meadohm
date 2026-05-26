@@ -31,5 +31,5 @@ Stack : Python · PySpark · Airflow · dbt · BigQuery · Docker · GitHub Acti
 ### 📫 Me contacter
 
 - 📧 **Email** : moh.fofana21@gmail.com
-- 🔗 **LinkedIn** : [linkedin.com/in/mohamed-fofana21](https://www.linkedin.com/in/mohamed-fofana21/)
-- 📱 **Téléphone** : (+225) 05 66 27 66 28
+- 🔗 **LinkedIn** : [linkedin.com/in/mohamed-fofana-data-engineer/](https://www.linkedin.com/in/mohamed-fofana-data-engineer/)
+- 📱 **Téléphone** : (+225) 05 66 27 66 28 | WhatsApp : (+225) 07 79 27 98 18
